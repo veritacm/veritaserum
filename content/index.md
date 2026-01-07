@@ -11,13 +11,6 @@ Plateforme publique de **suivi factuel** et de **clarification institutionnelle*
 
 ---
 
-## Démarrer
-- [[00_Hub|🧭 Hub]]
-- [[Chronologie|📍 Chronologie]]
-- [[Documents|📎 Documents / pièces]]
-
----
-
 ## Comment on “fait éclater la vérité” (méthode)
 > [!tip] Règle d’or
 > **1 fait = 1 source** (document officiel, PDF, communication institutionnelle, média daté, archive web).  
@@ -38,54 +31,17 @@ Plateforme publique de **suivi factuel** et de **clarification institutionnelle*
 ---
 
 ## Axes principaux (lecture rapide)
-- **Ce qui devait exister** (cadre, obligations) : [[Cadre_legal|Cadre légal]]
-- **Ce qui est établi** (faits sourcés) : [[Chronologie|Chronologie]]
-- **Ce qui manque** (preuves / documents / réponses) : [[Documents|Documents]]
-- **Qui fait quoi** (organes, rôles, périmètres) : [[Institutions|Institutions]]
-- **Traçabilité des sources** (archives, captures, références) : [[Sources|Sources & archives]]
-
----
-
-## Derniers updates
-> [!success] Transparence de maintenance
-> Chaque changement public = une ligne datée + lien (pas de “réécriture silencieuse”).
-
-- [[updates/2026-01-07|07.01.2026 — Mise à jour]]
-- [[updates/2026-01-06|06.01.2026 — Mise à jour]]
-- [[updates/2026-01-05|05.01.2026 — Mise à jour]]
-
-👉 Voir tous les updates : [[updates/|Dossier updates]]
-
----
-
-## Standard public d’écriture (à appliquer partout)
-- [ ] **Titre neutre** (pas accusatoire, pas insinuant).
-- [ ] **Faits** séparés des **hypothèses** (idéalement : aucune hypothèse en page publique).
-- [ ] Chaque fait contient une **source** (lien + date).
-- [ ] Chaque zone grise devient une **question** + **documents attendus**.
-- [ ] Pas de données personnelles non nécessaires (noms, adresses, visages, téléphones).
-
----
-
-## Contribution (sans bruit, sans débat)
-> [!question] Comment aider efficacement ?
-> 1) Fournir un **lien** ou **PDF** + la **date**.  
-> 2) Dire en 1 phrase **ce que la source prouve** (factuellement).  
-> 3) Si c’est un manque : proposer le **document attendu**.
-
-> [!info] Formats utiles
-> - “Source officielle” (PDF, page institutionnelle, BO, registre, décision)
-> - “Source média” (article daté + citation courte + URL)
-> - “Archive web” (Wayback / WebArchive) + capture
-
----
-
-## Navigation rapide
-- [[Institutions|🏛️ Institutions]]
-- [[Cadre_legal|⚖️ Cadre légal]]
-- [[Sources|🗃️ Sources & archives]]
-- [[Documents|📎 Documents / pièces]]
-- [[Chronologie|📍 Chronologie]]
+- **Plan de lecture / structure** : [[00_Hub/Hub|Hub]]
+- **Faits établis (structure à remplir)** : [[01_Faits/Chronologie|Chronologie]]
+- **Bases légales (VS, état 2025)** : [[02_Droit/Lois_applicables|Lois applicables]]
+- **Autorisation d’exploiter (cadre, procédure)** : [[03_Autorisations/Autorisation_d_exploiter|Autorisation d’exploiter]]
+- **Normes incendie (AEAI) — principes** : [[04_Sécurité_Incendie/Normes_incendie_AEAI|Normes incendie (AEAI)]]
+- **Autorités communales (rôle/organisation)** : [[05_Autorités/Commune_de_Crans-Montana|Commune de Crans-Montana]]
+- **Commission du feu (mission/pouvoirs)** : [[05_Autorités/Commission_du_feu|Commission du feu]]
+- **Contrôles (sécurité incendie / exploitation)** : [[06_Contrôles/Procédures_de_contrôle|Procédures de contrôle]]
+- **Responsabilités (cadre, sans préjuger)** : [[07_Responsabilités/Responsabilité_de_la_commune|Responsabilité de la commune]]
+- **Zones grises à convertir en preuves** : [[08_Questions/Questions_factuelles_à_clarifier|Questions factuelles à clarifier]]
+- **Méthode IA (enrichissement contrôlé)** : [[09_IA/Prompts_et_méthode_IA|Prompts et méthode IA]]
 
 ---
 
