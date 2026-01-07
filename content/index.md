@@ -1,22 +1,3 @@
-cd "/Users/benaissa287/Documents/GitHub/veritaserum" || exit 1
-pwd
-ls
-test -d content || { echo "ERROR: dossier content/ introuvable"; exit 1; }
-
-cat > "content/index.md" <<'EOF'
----
-title: "Accueil"
-description: "Plateforme publique de documentation vérifiable — incendie de Crans-Montana (31.12.2025–01.01.2026)."
-publish: true
-status: "public"
-updated: 2026-01-07
-tags:
-  - veritaserum
-  - transparence
-  - documentation
-  - crans-montana
----
-
 # Veritaserum
 Plateforme publique de **suivi factuel** et de **clarification institutionnelle** autour de l’incendie de Crans-Montana (31.12.2025–01.01.2026).
 
