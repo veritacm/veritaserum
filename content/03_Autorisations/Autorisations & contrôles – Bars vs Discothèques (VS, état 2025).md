@@ -24,10 +24,9 @@ tags:
 # Carte des autorisations & contrôles – Bars vs Discothèques (Valais, état 2025)
 
 > [!summary] Pourquoi cette note existe
-> Objectif : expliquer **simplement** comment un bar / dancing (discothèque) est censé être **autorisé**, **contrôlé** et **tracé** en Valais (état 2025) — sans accusations, sans spéculation, et avec une logique "kit communication".
+> Objectif : expliquer **simplement** comment un bar / dancing (discothèque) est censé être **autorisé**, **contrôlé** et **tracé** en Valais (état 2025).
 >
-> **Règle d'or Veritaserum** : 1 affirmation = 1 source (texte légal / document / lien officiel).  
-> Ce qui n'est pas sourcé ici est laissé en **TODO** (à compléter depuis les textes officiels).
+
 
 ---
 
