@@ -1,9 +1,8 @@
 ![[Pasted image 20260107212825.png]]
 
-
+L'article original se trouve ici : [[service-securite-publique-vde-16-extrait.pdf]]
 
 >À la Commune de Crans-Montana, la sécurité publique est considérée comme une priorité. Dès la fusion des anciennes communes, la collectivité a fait le choix clair de structurer cette mission en créant un service dédié. Pensé pour accompagner la population, encadrer les activités et prévenir les risques, ce service s’est renforcé au fil des années pour devenir un acteur central du fonctionnement communal.
-
 
 ## Montée en puissance
 
@@ -66,5 +65,7 @@ Avec le soutien de mon équipe, il est important d’accompagner au mieux tous l
 
 Cela dit, étant très engagé dans des sociétés locales, je suis parfaitement conscient des démarches administratives et organisationnelles que cela implique.  
 Mon objectif principal est donc de sensibiliser ces entités dans leurs différentes tâches et leur bon fonctionnement.
+
+---
 
 
