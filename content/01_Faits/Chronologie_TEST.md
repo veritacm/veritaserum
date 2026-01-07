@@ -118,6 +118,57 @@ gantt
 [[Chronologie]] [[Questions_factuelles_à_clarifier]] [[Procédures_de_contrôle]] [[Autorisation_d_exploiter]]
 
 
+
+```mermaid
+flowchart LR
+  %% Fresque test (placeholders explicites). Temps = de haut en bas dans chaque colonne.
+
+  subgraph A["Etablissement - Le Constellation"]
+  direction TB
+    A1976["1976 - Debut exploitation (A SOURCER)"]
+    A2015["2015 - Reprise gérance actuelle (A SOURCER)"]
+    A2015b["2015-2016 - Travaux ~10 mois (A SOURCER)"]
+    A2016["2016 - Reouverture au public (A SOURCER)"]
+    Axx1["[PLACEHOLDER] 199X - Changement tenancier (TODO)"]
+    Axx2["[PLACEHOLDER] 200X - Travaux / mise aux normes (TODO)"]
+  end
+
+  subgraph B["Commune / Institutions"]
+  direction TB
+    Bpre2017["Avant 2017 - 6 communes du Haut-Plateau (A SOURCER)"]
+    Bcherm["Avant 2017 - Constellation sur commune de Chermignon (A SOURCER)"]
+    B2017["2017 - Fusion des communes -> Crans-Montana (A SOURCER)"]
+    Bleg1["[PLACEHOLDER] 2017-2020 - Legislature #1 (TODO)"]
+    Bleg2["[PLACEHOLDER] 2021-2024 - Legislature #2 (TODO)"]
+    Bleg3["[PLACEHOLDER] 2025-2028 - Legislature #3 (TODO)"]
+  end
+
+  subgraph C["Services securite / controles"]
+  direction TB
+    Corg0["[PLACEHOLDER] Avant 2017 - Organisation securite (TODO)"]
+    Corg1["[PLACEHOLDER] 2017 - Reorganisation post-fusion (TODO)"]
+    Corg2["[PLACEHOLDER] 2020 - Procedure controle actualisee (TODO)"]
+    Corg3["[PLACEHOLDER] 2023 - Renfort service / delegation (TODO)"]
+    Corg4["[PLACEHOLDER] 2025 - Etat des controles (TODO)"]
+  end
+
+  %% Liens de repere (alignement narratif, pas causal)
+  A1976 -. repere .-> Bpre2017
+  Bpre2017 -. repere .-> Corg0
+
+  A2015 -. repere .-> Bpre2017
+  A2016 -. repere .-> B2017
+  B2017 -. repere .-> Corg1
+```
+
+
+
+
+
+
+
+
+
 ```mermaid
 timeline
   title Fresque — repères (à sourcer)
