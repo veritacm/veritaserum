@@ -32,8 +32,8 @@ Cette documentation est un **outil de recherche et d'organisation**. Elle ne con
 - [[Normes_incendie_AEAI]]
 
 ### 05 — Autorités
-- [[Commune_de_Crans-Montana]]
-- [[Commission_du_feu]]
+- [[Commune de Crans-Montana]]
+- [[Commission du feu CM]]
 
 ### 06 — Contrôles
 - [[Procédures_de_contrôle]]

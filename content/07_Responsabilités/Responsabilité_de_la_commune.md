@@ -27,5 +27,5 @@ TODO: Expliquer les formes de responsabilité possibles, sans les attribuer.
 ## Liens internes
 - [[Lois_applicables]]
 - [[Procédures_de_contrôle]]
-- [[Commune_de_Crans-Montana]]
+- [[Commune de Crans-Montana]]
 - [[Questions_factuelles_à_clarifier]]

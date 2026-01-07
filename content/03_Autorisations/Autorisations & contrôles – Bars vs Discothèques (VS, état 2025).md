@@ -62,7 +62,7 @@ tags:
 | Brique | À quoi ça sert | Notes / preuves à chercher | Note liée |
 |---|---|---|---|
 | Autorisation d'exploiter | Autorise l'activité (boissons / accueil / catégorie / conditions) | Décision d'autorisation + annexes + conditions | [[Autorisation_d_exploiter]] |
-| Police du feu / incendie | Assure la sécurité du public (évacuation, issues, matériaux, dispositifs) | Préavis feu, rapports d'inspection, injonctions, réception | [[Commission_du_feu]] + [[Normes_incendie_AEAI]] |
+| Police du feu / incendie | Assure la sécurité du public (évacuation, issues, matériaux, dispositifs) | Préavis feu, rapports d'inspection, injonctions, réception | [[Commission du feu CM]] + [[Normes_incendie_AEAI]] |
 | Contrôles & traçabilité | Prouve qu'on a vérifié et corrigé | PV, rapports, délais, preuves de correction | [[Procédures_de_contrôle]] |
 
 ---
@@ -76,7 +76,7 @@ tags:
 > "Une autorisation d'exploiter n'est pas qu'un papier commercial : elle repose normalement sur des préavis et sur la conformité des locaux."
 
 ### 4.2 Police du feu (logique attendue)
-- **Organe local** : [[Commission_du_feu]] (inspection, constats, injonctions, délais)
+- **Organe local** : [[Commission du feu CM]] (inspection, constats, injonctions, délais)
 - **Niveau cantonal** : appui / surveillance (à documenter précisément)
 - **Experts** : concepts incendie, réception, attestations (souvent indispensables en cas de travaux)
 
@@ -219,8 +219,8 @@ Voir : [[Responsabilité_de_la_commune]] + (à créer) [[Partie_civile_CPP]].
 - [[Autorisation_d_exploiter]]
 - [[Normes_incendie_AEAI]]
 - [[Procédures_de_contrôle]]
-- [[Commission_du_feu]]
-- [[Commune_de_Crans-Montana]]
+- [[Commission du feu CM]]
+- [[Commune de Crans-Montana]]
 - [[Responsabilité_de_la_commune]]
 
 

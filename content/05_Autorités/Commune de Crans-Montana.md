@@ -93,6 +93,6 @@ Sources
 - https://www.commune-cransmontana.ch/news/legislature-2025--2028-repartition-des-dicasteres-6312
 
 ## Liens internes
-- [[Commission_du_feu]]
+- [[Commission du feu CM]]
 - [[Procédures_de_contrôle]]
 - [[Responsabilité_de_la_commune]]

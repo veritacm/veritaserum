@@ -56,4 +56,4 @@ TODO: Liste de questions factuelles, sans insinuation, structurées.
 - [[Chronologie]]
 - [[Procédures_de_contrôle]]
 - [[Autorisation_d_exploiter]]
-- [[Commission_du_feu]]
+- [[Commission du feu CM]]

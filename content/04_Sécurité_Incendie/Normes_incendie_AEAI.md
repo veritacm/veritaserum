@@ -45,5 +45,5 @@ Sources
 
 ## Liens internes
 - [[Procédures_de_contrôle]]
-- [[Commission_du_feu]]
+- [[Commission du feu CM]]
 - [[Autorisation_d_exploiter]]

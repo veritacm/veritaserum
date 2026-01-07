@@ -48,7 +48,7 @@ Sources
 - https://lex.vs.ch/data/935.300/fr
 
 ## Liens internes
-- [[Commission_du_feu]]
+- [[Commission du feu CM]]
 - [[Autorisation_d_exploiter]]
 - [[Normes_incendie_AEAI]]
 - [[Questions_factuelles_à_clarifier]]
