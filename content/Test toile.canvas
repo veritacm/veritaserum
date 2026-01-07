@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"70b2a2a1a606ad11","x":-180,"y":-200,"width":250,"height":60,"type":"text","text":"Commune de Crans-Montana"},
-		{"id":"37a7f40a5b6d6cc1","x":-205,"y":2,"width":250,"height":60,"type":"text","text":"Test"}
-	],
-	"edges":[
-		{"id":"8404cc1b52bf56a6","fromNode":"70b2a2a1a606ad11","fromSide":"bottom","toNode":"37a7f40a5b6d6cc1","toSide":"top"}
-	]
-}
