@@ -6,7 +6,6 @@ publicable: true
 topic: "veritaserum_crans_montana"
 status: "active"
 ---
-
 # Prompts et méthode IA – Enrichissement contrôlé du Vault
 
 ## Objet

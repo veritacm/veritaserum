@@ -22,3 +22,5 @@ Ici : uniquement des **faits datés & vérifiables**, avec **sources**.
 - [[05_Autorités|Autorités]]
 - [[07_Responsabilités|Responsabilités]]
 - [[02_Droit|Droit applicable]]
+
+*À continuer*
