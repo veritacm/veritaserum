@@ -1,5 +1,11 @@
 # veritaserum
 
+>[!warning]
+>La commune procède actuellement à un retrait massif des pages de son site web. 
+>Un article relatif au nouveau dispositif de sécurité publique a échappé in-extremis à son passages dans les limbes d'internet. [[service-securite-publique-vde-16-extrait.pdf]]
+
+
+
 **Plateforme factuelle** — Incendie de Crans-Montana  
 Ici : uniquement des **faits datés & vérifiables**, avec **sources**.
 
