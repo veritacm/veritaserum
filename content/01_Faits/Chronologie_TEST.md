@@ -118,6 +118,30 @@ gantt
 [[Chronologie]] [[Questions_factuelles_à_clarifier]] [[Procédures_de_contrôle]] [[Autorisation_d_exploiter]]
 
 
+```mermaid
+flowchart LR
+  subgraph A[Constellation]
+    A1976["1976 - Debut exploitation (A SOURCER)"] --> A2015["2015 - Reprise gerance actuelle (A SOURCER)"] --> A2016["2015-2016 - Travaux ~10 mois (A SOURCER)"] --> A2016b["2016 - Reouverture au public (A SOURCER)"]
+    A2016b --> Axx1["[PLACEHOLDER] 199X - Changement tenancier (TODO)"]
+    Axx1 --> Axx2["[PLACEHOLDER] 200X - Travaux / mise aux normes (TODO)"]
+  end
+
+  subgraph B[Commune]
+    Bpre["Avant 2017 - 6 communes du Haut-Plateau (A SOURCER)"] --> Bch["Avant 2017 - Constellation sur Chermignon (A SOURCER)"] --> B2017["2017 - Fusion -> Crans-Montana (A SOURCER)"]
+    B2017 --> Bleg1["[PLACEHOLDER] 2017-2020 - Legislature #1 (TODO)"] --> Bleg2["[PLACEHOLDER] 2021-2024 - Legislature #2 (TODO)"] --> Bleg3["[PLACEHOLDER] 2025-2028 - Legislature #3 (TODO)"]
+  end
+
+  subgraph C[Securite_Controles]
+    Cpre["[PLACEHOLDER] Avant 2017 - Organisation securite (TODO)"] --> C2017["[PLACEHOLDER] 2017 - Reorganisation post-fusion (TODO)"] --> C2020["[PLACEHOLDER] 2020 - Procedure controle actualisee (TODO)"]
+    C2020 --> C2023["[PLACEHOLDER] 2023 - Renfort service / delegation (TODO)"] --> C2025["[PLACEHOLDER] 2025 - Etat des controles (TODO)"]
+  end
+```
+
+
+
+
+
+
 
 ```mermaid
 flowchart LR
