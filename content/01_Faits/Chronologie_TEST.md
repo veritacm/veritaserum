@@ -116,3 +116,43 @@ gantt
 ## Liens internes
 
 [[Chronologie]] [[Questions_factuelles_à_clarifier]] [[Procédures_de_contrôle]] [[Autorisation_d_exploiter]]
+
+
+```mermaid
+timeline
+  title Fresque — repères (à sourcer)
+  1976 : Début exploitation (TODO)
+  2017 : Fusion Haut-Plateau → Crans-Montana (TODO)
+  2025-12-31 : Nuit de l’événement (TODO)
+  2026 : Enquête / décisions publiques (TODO)
+  ```
+
+
+```mermaid
+flowchart TB
+  H["Reperes chronologiques (placeholders - a sourcer)"]
+  H --> E1976["1976 - Debut exploitation (TODO)"]
+  H --> F2017["2017 - Fusion communes (TODO)"]
+  H --> N2025["2025-12-31 / 2026-01-01 - Nuit evenement (TODO)"]
+  H --> A2026["2026 - Enquete / decisions publiques (TODO)"]
+```
+
+
+```mermaid
+flowchart LR
+  subgraph A["Rail A - Le Constellation"]
+    A1["1976 - Debut exploitation (TODO)"]
+    A2["Tenanciers (TODO)"]
+    A3["Changements / travaux (TODO)"]
+  end
+  subgraph B["Rail B - Institutions"]
+    B1["Avant 2017 - 6 communes (TODO)"]
+    B2["2017 - Fusion (TODO)"]
+    B3["Apres 2017 - Organisation (TODO)"]
+  end
+  subgraph C["Rail C - Securite"]
+    C1["Organisation services (TODO)"]
+    C2["Controles (TODO)"]
+    C3["Autorisation d'exploiter (TODO)"]
+  end
+```
