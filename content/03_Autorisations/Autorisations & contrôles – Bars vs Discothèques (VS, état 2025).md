@@ -52,8 +52,14 @@ tags:
 - "La catégorie administrative n'est pas un détail : elle conditionne souvent la **capacité**, les **horaires**, et le niveau de **sécurité attendu**."
 - "Si un lieu ressemble à une discothèque mais est autorisé comme simple bar, la question factuelle n'est pas morale : elle est **documentaire**."
 
-> [!info] TODO "source"
-> Ajouter ici (une fois vérifié) : la **catégorisation** exacte dans la LHR / OHR (bar vs dancing) et ses implications.
+> [!question] Élément à documenter
+> **Élément manquant** : Catégorisation exacte dans la LHR / OHR (bar vs dancing) et ses implications juridiques (capacité, horaires, sécurité).
+>
+> **Type de preuve** : Articles de la LHR (RS 935.3) et de l'OHR (RS 935.300) définissant : catégories d'établissements, critères de distinction, conséquences juridiques.
+>
+> **Piste suggérée** : Consulter LHR + OHR (sections sur les catégories d'établissements / autorisations) + renvoyer à [[Autorisation_d_exploiter]].
+>
+> **Pourquoi c'est important** : La catégorisation conditionne le régime juridique applicable : si un lieu fonctionne comme une discothèque mais est autorisé comme bar, il peut y avoir inadéquation entre l'autorisation et l'exploitation réelle.
 
 ---
 
@@ -111,14 +117,54 @@ flowchart TD
 
 ### 6.1 Sécurité incendie : le minimum compréhensible
 - **Évacuation**
-  - issues suffisantes (nombre / largeur) — **TODO source**
-  - chemins dégagés (pas d’obstacles, pas de portes verrouillées)
+  - issues suffisantes (nombre / largeur)
+
+> [!question] Élément à documenter
+> **Élément manquant** : Source précise (AEAI / LPIEN) sur les exigences minimales d'évacuation (nombre d'issues, largeur, distance).
+>
+> **Type de preuve** : Articles des prescriptions AEAI ou de la LPIEN définissant les critères d'évacuation pour établissements publics.
+>
+> **Piste suggérée** : Consulter [[Normes_incendie_AEAI]] (section Évacuation) + LPIEN.
+>
+> **Pourquoi c'est important** : Ces exigences conditionnent la capacité admissible du lieu.
+
+  - chemins dégagés (pas d'obstacles, pas de portes verrouillées)
 - **Matériaux**
-  - plafonds / revêtements compatibles avec un lieu à forte affluence — **TODO source**
+  - plafonds / revêtements compatibles avec un lieu à forte affluence
+
+> [!question] Élément à documenter
+> **Élément manquant** : Source précise (AEAI) sur les exigences de réaction au feu des matériaux pour établissements à forte affluence.
+>
+> **Type de preuve** : Articles des prescriptions AEAI définissant les classes de réaction au feu applicables.
+>
+> **Piste suggérée** : Consulter [[Normes_incendie_AEAI]] (section Matériaux).
+>
+> **Pourquoi c'est important** : Les matériaux combustibles peuvent accélérer la propagation du feu.
+
 - **Alerte**
-  - alarme audible / visibilité des sorties / éclairage de secours — **TODO source**
+  - alarme audible / visibilité des sorties / éclairage de secours
+
+> [!question] Élément à documenter
+> **Élément manquant** : Source précise (AEAI) sur les exigences d'alarme et d'éclairage de secours pour établissements publics.
+>
+> **Type de preuve** : Articles des prescriptions AEAI définissant les systèmes d'alarme et d'éclairage obligatoires.
+>
+> **Piste suggérée** : Consulter [[Normes_incendie_AEAI]] (section Détection/alarme/éclairage).
+>
+> **Pourquoi c'est important** : Ces systèmes permettent l'évacuation en condition dégradée.
+
 - **Exploitation**
-  - capacité respectée / gestion de la foule / consignes au personnel — **TODO source**
+  - capacité respectée / gestion de la foule / consignes au personnel
+
+> [!question] Élément à documenter
+> **Élément manquant** : Source précise (AEAI / LPIEN / LHR) sur les exigences d'exploitation (capacité, personnel, consignes).
+>
+> **Type de preuve** : Articles définissant les obligations de l'exploitant en matière de gestion de la sécurité.
+>
+> **Piste suggérée** : Consulter [[Normes_incendie_AEAI]] + [[Autorisation_d_exploiter]] + [[Procédures_de_contrôle]].
+>
+> **Pourquoi c'est important** : Le respect de la capacité et les consignes au personnel conditionnent la sécurité en exploitation.
+
 - **Preuves**
   - rapports, photos, attestations, dates
 
@@ -199,14 +245,18 @@ Voir : [[Responsabilité_de_la_commune]] + (à créer) [[Partie_civile_CPP]].
   https://lex.vs.ch/data/935.300/fr
 
 ### Normes AEAI (références techniques)
-- Présentation : 
+- Présentation :
   https://www.bsvonline.ch/fr/prescriptions-de-protection-incendie
-- PDF “prescriptions” (lien existant) : 
+- PDF "prescriptions" (lien existant) :
   https://services.vkg.ch/rest/public/georg/bs/publikation/documents/BSPUB-1394520214-55.pdf/content
 
-> [!warning] TODO “preuve”
-> Tant que les articles précis ne sont pas extraits/cités, rester sur des formulations :  
-> **“la loi prévoit / la pratique attend”** + lien officiel + TODO.
+> [!wip] Prudence - Articles en cours d'extraction
+> **État actuel** : Les sources officielles (liens AEAI) sont identifiées, mais les articles précis ne sont pas encore extraits/cités dans les notes.
+>
+> **Formulation recommandée** : Tant que les articles ne sont pas extraits, rester sur des formulations prudentes :
+> **"la loi prévoit / la pratique attend"** + lien officiel + renvoi à [[Normes_incendie_AEAI]].
+>
+> **Pourquoi c'est important** : Citer des articles inexacts ou incomplets peut fragiliser la crédibilité du propos. Mieux vaut indiquer clairement qu'un élément est en cours de documentation.
 
 ---
 

@@ -43,12 +43,53 @@ Sources
 - Les autres intitulés restent identiques entre 2021 et 2025.
 
 ### Chronologie des changements
-- Mai 2021: publication de l’organigramme de l’administration communale dans le magazine « Vue d’ensemble » n°07.
+- Mai 2021: publication de l'organigramme de l'administration communale dans le magazine « Vue d'ensemble » n°07.
 - Publication en ligne de la répartition des dicastères 2025–2028.
-- TODO: documenter l’organigramme exécutif validé (actualité communale).
+
+> [!outdated] Document manquant - Version actualisée
+> **Élément manquant** : Organigramme exécutif complet et validé pour la législature 2025–2028 (au-delà de la simple répartition des dicastères).
+>
+> **Type de preuve** : Organigramme administratif 2025 (publication communale / magazine / annexe au procès-verbal).
+>
+> **Piste suggérée** : Contacter la Chancellerie communale ou consulter les archives/publications communales 2025.
+>
+> **Pourquoi c'est important** : L'organigramme 2021 est devenu obsolète, et la simple liste des dicastères 2025 ne documente pas la structure administrative détaillée (services, secteurs, responsables).
 
 ### Limites
-- Le schéma complet 2025 (secteurs détaillés) n’est pas accessible via les pages/sources disponibles ici. TODO: obtenir l’organigramme complet 2025 (annexe/FOI).
+
+> [!question] Élément à obtenir
+> **Élément manquant** : Organigramme administratif complet 2025 (secteurs détaillés, responsables, rattachements).
+>
+> **Type de preuve** : Document officiel (organigramme 2025) accessible via publication communale ou demande formelle (transparence/FOI).
+>
+> **Piste suggérée** : Demander à la Chancellerie communale ou consulter les procès-verbaux/publications communales 2025 (magazine « Vue d'ensemble » ou équivalent).
+>
+> **Pourquoi c'est important** : Le schéma complet 2025 permettrait de documenter la structure administrative actuelle et d'identifier les services/responsables concernés par les autorisations et contrôles.
+
+### Vue d'ensemble (schéma)
+
+> [!info] Schéma simplifié
+> Ce diagramme représente les relations institutionnelles principales. Les lignes pointillées indiquent une relation de surveillance/appui.
+
+```mermaid
+flowchart TB
+  classDef canton fill:#1e40af,color:#fff,stroke:#1e3a8a
+  classDef commune fill:#3b82f6,color:#fff,stroke:#2563eb
+  classDef commission fill:#0891b2,color:#fff,stroke:#0e7490
+  classDef service fill:#f1f5f9,color:#334155,stroke:#cbd5e1
+
+  CANTON["Canton du Valais"]:::canton
+  CANTON --> CCPI["Inspection cantonale feu"]:::canton
+
+  COMMUNE["Commune Crans-Montana"]:::commune
+  COMMUNE --> CM["Conseil municipal"]:::commune
+  CM --> DICAST["Dicastère Sécurité publique"]:::commune
+  DICAST --> SSP["Service Sécurité publique"]:::service
+  DICAST --> CFEU["Commission Feu & EMCR"]:::commission
+  CFEU --> CSI["CSI Crans-Montana"]:::service
+
+  CCPI -.->|"surveillance"| CFEU
+```
 
 Sources
 - https://www.commune-cransmontana.ch/media/document/0/vde_mai_2021_n7_final.pdf
@@ -77,16 +118,48 @@ Sources
 
 ## Compétences (à documenter)
 ### Autorisation d'exploiter
-- TODO: base légale et autorité compétente à préciser.
+
+> [!question] Élément à documenter
+> **Élément manquant** : Base légale et autorité compétente (communale/cantonale) pour la délivrance des autorisations d'exploiter.
+>
+> **Type de preuve** : Articles de la LHR (RS 935.3) / OHR (RS 935.300) + éventuellement règlement communal précisant les compétences.
+>
+> **Piste suggérée** : Consulter LHR + OHR (sections sur les autorisations) + renvoyer à [[Autorisation_d_exploiter]].
+>
+> **Pourquoi c'est important** : Identifier l'autorité compétente permet de tracer la chaîne de responsabilité et de déterminer qui signe/valide les autorisations.
 
 ### Police du feu / inspections
-- TODO: base légale et autorités de contrôle à préciser.
+
+> [!question] Élément à documenter
+> **Élément manquant** : Base légale et autorités de contrôle (commission du feu / canton / experts) pour les inspections incendie.
+>
+> **Type de preuve** : Articles de la LPIEN (RS 540.1) / ordonnances d'exécution + éventuellement règlement communal sur la commission du feu.
+>
+> **Piste suggérée** : Consulter LPIEN + ordonnances VS + renvoyer à [[Commission du feu CM]] et [[Procédures_de_contrôle]].
+>
+> **Pourquoi c'est important** : Identifier les autorités de contrôle permet de tracer la chaîne de responsabilité et de déterminer qui effectue/valide les inspections.
 
 ### Mesures administratives (restriction / fermeture)
-- TODO: conditions, procédure et autorités compétentes à préciser.
+
+> [!question] Élément à documenter
+> **Élément manquant** : Conditions, procédure et autorités compétentes pour ordonner des mesures administratives (restriction/fermeture).
+>
+> **Type de preuve** : Articles de la LPIEN / LHR définissant : motifs de fermeture, procédure d'injonction, délais, voies de recours, autorité compétente.
+>
+> **Piste suggérée** : Consulter LPIEN + LHR (sections sur les mesures administratives / sanctions) + renvoyer à [[Procédures_de_contrôle]].
+>
+> **Pourquoi c'est important** : Documenter la procédure permet de vérifier si les mesures ont été prises conformément au cadre légal en cas de non-conformité grave.
 
 ## Transparence et communication
-- TODO: préciser les règles de publication (secret de fonction, procédures en cours).
+
+> [!missing] Élément manquant
+> **Élément manquant** : Règles de publication et limites à la transparence (secret de fonction, procédures en cours, protection des données).
+>
+> **Type de preuve** : Articles du droit cantonal VS / droit fédéral sur la transparence (LTrans / CPP) définissant : ce qui peut être publié, ce qui doit rester confidentiel, exceptions.
+>
+> **Piste suggérée** : Consulter la loi sur la transparence VS + CPP (procédures pénales en cours) + règles de secret de fonction.
+>
+> **Pourquoi c'est important** : Clarifier les règles permet de comprendre pourquoi certains documents ne sont pas accessibles et d'éviter de confondre « non publié » avec « inexistant ».
 
 Sources
 - https://www.commune-cransmontana.ch/media/document/0/vde_mai_2021_n7_final.pdf

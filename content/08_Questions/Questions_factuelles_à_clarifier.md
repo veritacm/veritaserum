@@ -10,7 +10,13 @@ status: "open"
 # Questions factuelles à clarifier – Autorisations, contrôles, capacité, conformité
 
 ## Objet
-TODO: Liste de questions factuelles, sans insinuation, structurées.
+
+> [!note] Note méthodologique
+> **Objectif** : Structurer les questions factuelles à clarifier, sans insinuation, pour documenter les faits et identifier les preuves manquantes.
+>
+> **Méthode** : Chaque section thématique (A-J) liste des questions ouvertes (TODO conservés tels quels) qui servent de guide pour la collecte documentaire.
+>
+> **Pourquoi c'est important** : Cette approche permet de maintenir une posture factuelle et de tracer les éléments à documenter sans présupposer de réponse.
 
 ## A) Qualification de l'établissement
 - TODO: Bar / discothèque / autre
@@ -49,8 +55,24 @@ TODO: Liste de questions factuelles, sans insinuation, structurées.
 - ✅ Résolu : https://www.bsvonline.ch/fr/prescriptions-de-protection-incendie.
 
 ## J) Procédures de contrôle (sécurité incendie / exploitation)
-- TODO: préciser la périodicité des contrôles et le périmètre exact (incendie vs exploitation) selon les bases légales VS.
-- TODO: préciser la répartition des compétences (commune / canton / experts tiers) et les procédures associées.
+
+> [!question] Élément à documenter
+> **Élément manquant** : Périodicité des contrôles et périmètre exact (incendie vs exploitation) selon les bases légales VS.
+>
+> **Type de preuve** : Articles des bases légales VS (LPIEN / LHR / ordonnances) définissant : fréquence des inspections, distinction entre contrôle incendie / contrôle d'exploitation, autorités compétentes.
+>
+> **Piste suggérée** : Consulter LPIEN (art. sur les contrôles) + LHR (art. sur les autorisations et contrôles) + renvoyer à [[Procédures_de_contrôle]].
+>
+> **Pourquoi c'est important** : La périodicité conditionne la traçabilité : si les contrôles sont prévus annuellement mais n'ont pas eu lieu, cela peut révéler une carence institutionnelle.
+
+> [!question] Élément à documenter
+> **Élément manquant** : Répartition des compétences (commune / canton / experts tiers) et procédures associées.
+>
+> **Type de preuve** : Articles des bases légales VS définissant : qui contrôle quoi, qui signe les rapports, qui délivre les attestations, procédure en cas de non-conformité.
+>
+> **Piste suggérée** : Consulter LPIEN + LHR + organigramme commune + renvoyer à [[Procédures_de_contrôle]] et [[Commission du feu CM]].
+>
+> **Pourquoi c'est important** : La chaîne de responsabilité doit être claire : si un maillon ne documente pas, la traçabilité est rompue.
 
 ## Liens internes
 - [[Chronologie]]
