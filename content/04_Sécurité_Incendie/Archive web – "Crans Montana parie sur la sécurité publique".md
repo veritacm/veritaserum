@@ -51,8 +51,8 @@ De plus, avec l’évolution des matériaux de construction, les normes s’adap
 >*- le contrôle des habitants*
 >*- la gestion des bourgeoisies*
 >*- le culte*
->
-*Depuis ce début d’année, j’ai pu facilement prendre mes marques en découvrant une équipe réactive et compétente.*  
+
+>*Depuis ce début d’année, j’ai pu facilement prendre mes marques en découvrant une équipe réactive et compétente.*  
 *En effet, ce service a été mis sur pied de manière optimale par mon prédécesseur, et je tiens à saluer son engagement.*  
 *La prise en main des activités s’est donc déroulée naturellement.*
 
