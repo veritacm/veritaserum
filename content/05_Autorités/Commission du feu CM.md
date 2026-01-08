@@ -20,6 +20,7 @@ Dans une démarche de clarification institutionnelle, la page « Commission du f
 ## Ce que dit la page « Commission du feu »
 La page indique explicitement que **« le CSI Crans-Montana est placé sous la responsabilité de la commission Feu & EMCR »** et que cette commission est **composée de 5 membres**, dont **un Président** et **un Rapporteur**.
 
+
 ### Composition et rôles (sans noms)
 D’après la page, la commission comprend les rôles suivants :
 - **Président**

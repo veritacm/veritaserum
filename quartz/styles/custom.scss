@@ -1,3 +1,122 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* === BOUTON "Proposer un apport" === */
+.contribution-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  color: #334155;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.contribution-trigger:hover {
+  background: #e2e8f0;
+  border-color: #94a3b8;
+}
+
+/* === MODAL <dialog> === */
+#contribution-dialog {
+  border: none;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  max-width: 420px;
+  width: 90vw;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+#contribution-dialog::backdrop {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+#contribution-dialog h2 {
+  margin: 0 0 1.25rem 0;
+  font-size: 1.25rem;
+  color: #1e293b;
+}
+
+/* === FORMULAIRE === */
+#contribution-dialog form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+#contribution-dialog label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #475569;
+}
+
+#contribution-dialog input[type="text"],
+#contribution-dialog textarea {
+  padding: 0.625rem 0.75rem;
+  font-size: 0.9375rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #fff;
+  transition: border-color 0.15s ease;
+}
+
+#contribution-dialog input[type="text"]:focus,
+#contribution-dialog textarea:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+#contribution-dialog textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+/* === BOUTONS ACTIONS === */
+#contribution-dialog .dialog-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+#contribution-dialog button[type="submit"] {
+  flex: 1;
+  padding: 0.625rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #fff;
+  background: #2563eb;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+#contribution-dialog button[type="submit"]:hover {
+  background: #1d4ed8;
+}
+
+#contribution-dialog button[type="button"] {
+  padding: 0.625rem 1rem;
+  font-size: 0.875rem;
+  color: #64748b;
+  background: transparent;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+#contribution-dialog button[type="button"]:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+}
