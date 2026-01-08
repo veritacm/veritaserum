@@ -1,25 +1,30 @@
-![[Pasted image 20260107212825.png]]
+![[screen_service_securite_CM.png]]
 
-L'article original se trouve ici : [[service-securite-publique-vde-16-extrait.pdf]]
+>[!info] Information à propos de cet article
+>Le contenu ci-dessus est extrait d'un article publié sur le site de la commune entre 2022 et 2025, qui a été depuis retiré. 
+>
+>Pour retrouver l'article original, [[service-securite-publique-vde-16-extrait.pdf | c'est par ici!]]
 
->À la Commune de Crans-Montana, la sécurité publique est considérée comme une priorité. Dès la fusion des anciennes communes, la collectivité a fait le choix clair de structurer cette mission en créant un service dédié. Pensé pour accompagner la population, encadrer les activités et prévenir les risques, ce service s’est renforcé au fil des années pour devenir un acteur central du fonctionnement communal.
 
-## Montée en puissance
+ >À la Commune de Crans-Montana, la sécurité publique est considérée comme une priorité. Dès la fusion des anciennes communes, la collectivité a fait le choix clair de structurer cette mission en créant un service dédié. Pensé pour accompagner la population, encadrer les activités et prévenir les risques, ce service s’est renforcé au fil des années pour devenir un acteur central du fonctionnement communal.
+
+**Montée en puissance**
 
 Au départ, un seul collaborateur. **Aujourd’hui, une équipe de cinq personnes** – chef de service, adjoint, collaborateurs – appuyée ponctuellement par des stagiaires. Une montée en puissance progressive, pensée pour répondre aux besoins concrets du territoire. **« Crans-Montana est aujourd’hui la première commune de la région à disposer d’un tel service, entièrement dédié à la sécurité publique »**, souligne Christophe Balet, qui a pris les rênes du service il y a quelques mois. Peu de communes en Valais d’ailleurs ont ce type de fonctionnement (Bagnes, Monthey, Nendaz…).
 
-## Prévenir, accompagner, protéger
+**Prévenir, accompagner, protéger**
 
-Le service intervient dans des domaines variés : contrôle des installations thermiques, suivi de la fauche des prés pour prévenir les incendies en période de sécheresse, des vignes abandonnées pour empêcher la propagation de maladies, visites annuelles dans les établissements publics, préavis dans les enquêtes publiques, traitement des naturalisations. > 
+Le service intervient dans des domaines variés : contrôle des installations thermiques, suivi de la fauche des prés pour prévenir les incendies en période de sécheresse, des vignes abandonnées pour empêcher la propagation de maladies, visites annuelles dans les établissements publics, préavis dans les enquêtes publiques, traitement des naturalisations. 
 
->L’objectif est clair : prévenir les risques, garantir la conformité, protéger la collectivité.
+>[!quote] *citation*
+>*L’objectif est clair : prévenir les risques, garantir la conformité, protéger la collectivité.*
 
 ## Un métier sans formation initiale
 
 Le métier de chargé de sécurité publique n’est pas encadré par un CFC. Il repose sur l’expérience acquise avec la pratique de différents métiers, des formations continues et une connaissance approfondie du terrain.
 
 > [!quote] À retenir
-> **À Crans-Montana, le chef de service et son adjoint ont tous deux une solide expérience comme pompiers.**  
+> À Crans-Montana, <span class="red">le chef de service et son adjoint ont tous deux une solide expérience comme pompiers.</span>  
 > 
 > Ils l’appliquent aujourd’hui **dans un cadre civil**, avec la même rigueur.
 

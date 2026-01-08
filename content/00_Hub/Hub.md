@@ -9,13 +9,14 @@ version: "v1"
 updated: "2026-01-06"
 ---
 
-# Hub – Vault SécuritéPublique_AI
+# Hub 
 
 ## Objet
 Ce Vault constitue une base documentaire structurée sur les questions de sécurité publique, d'autorisations et de responsabilités institutionnelles dans le canton du Valais, en lien avec l'incendie de Crans-Montana (nuit du 31.12.2025 au 01.01.2026).
 
 ## Avertissement
-Cette documentation est un **outil de recherche et d'organisation**. Elle ne contient aucune accusation, aucune conclusion définitive, et respecte strictement la présomption d'innocence. Les informations doivent être vérifiées auprès des sources officielles et complétées par un conseil juridique qualifié.
+Cette documentation est un **outil de recherche et d'organisation**.  
+Les informations doivent être vérifiées auprès des sources officielles et complétées par un conseil juridique qualifié.
 
 ## Structure du Vault
 
@@ -44,8 +45,6 @@ Cette documentation est un **outil de recherche et d'organisation**. Elle ne con
 ### 08 — Questions
 - [[Questions_factuelles_à_clarifier]]
 
-### 09 — IA et méthode
-- [[Prompts_et_méthode_IA]]
 
 ## État d'avancement
 - [x] Structure du Vault créée

@@ -66,22 +66,22 @@ tags:
 
 ---
 
-## 4) "Qui signe quoi" : la partie qui intéresse tout le monde
-### 4.1 Autorisation d'exploiter (logique attendue)
+## 4) Qui signe quoi ?
+### 4.1 Autorisation d'exploiter 
 - **Autorité signataire** (à confirmer / sourcer précisément) : commune / conseil municipal, selon les textes VS.  
 - **Préavis / pièces** : police du commerce, police du feu, constructions, hygiène, ordre public… selon le cas.
 
-> [!info] Message public simple
-> "Une autorisation d'exploiter n'est pas qu'un papier commercial : elle repose normalement sur des préavis et sur la conformité des locaux."
+> [!warning] Important
+> **Une autorisation d'exploiter n'est pas qu'un papier commercial : elle repose normalement sur des préavis et sur la conformité des locaux.**
 
-### 4.2 Police du feu (logique attendue)
+### 4.2 Police du feu 
 - **Organe local** : [[Commission du feu CM]] (inspection, constats, injonctions, délais)
 - **Niveau cantonal** : appui / surveillance (à documenter précisément)
 - **Experts** : concepts incendie, réception, attestations (souvent indispensables en cas de travaux)
 
 ---
 
-## 5) Mermaid – Procédure "autorisation ↔ sécurité" (version pédagogique)
+## 5) Procédure "autorisation ↔ sécurité" 
 
 ```mermaid
 flowchart TD
