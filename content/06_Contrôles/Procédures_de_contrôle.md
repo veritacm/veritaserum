@@ -18,7 +18,8 @@ Cette note rassemble les éléments documentaires sur les contrôles liés à la
 > Ce flowchart illustre le déroulement type d'un contrôle de sécurité, du déclenchement jusqu'aux suites éventuelles.
 
 ```mermaid
-flowchart TD
+flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   classDef start fill:#3b82f6,color:#fff,stroke:#2563eb
   classDef process fill:#f1f5f9,color:#334155,stroke:#cbd5e1
   classDef decision fill:#fef3c7,color:#92400e,stroke:#f59e0b

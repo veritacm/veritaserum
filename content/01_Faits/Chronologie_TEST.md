@@ -181,6 +181,7 @@ timeline
 
 ```mermaid
 flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   H["Reperes chronologiques (placeholders - a sourcer)"]
   H --> E1976["1976 - Debut exploitation (TODO)"]
   H --> F2017["2017 - Fusion communes (TODO)"]
@@ -190,7 +191,8 @@ flowchart TB
 
 
 ```mermaid
-flowchart LR
+flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   subgraph A["Rail A - Le Constellation"]
     A1["1976 - Debut exploitation (TODO)"]
     A2["Tenanciers (TODO)"]

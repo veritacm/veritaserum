@@ -30,6 +30,7 @@ Le système juridique suisse repose sur une hiérarchie des normes[^2][^3] :
 
 ```mermaid
 flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   classDef fed fill:#1e40af,color:#fff,stroke:#1e3a8a
   classDef cant fill:#3b82f6,color:#fff,stroke:#2563eb
   classDef comm fill:#60a5fa,color:#fff,stroke:#3b82f6

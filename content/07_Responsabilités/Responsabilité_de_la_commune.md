@@ -16,7 +16,8 @@ Cette note présente les trois registres de responsabilité applicables aux comm
 ### Les trois registres de responsabilité
 
 ```mermaid
-flowchart LR
+flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   classDef admin fill:#0891b2,color:#fff,stroke:#0e7490
   classDef civil fill:#3b82f6,color:#fff,stroke:#2563eb
   classDef penal fill:#dc2626,color:#fff,stroke:#b91c1c
@@ -39,6 +40,7 @@ flowchart LR
 
 ```mermaid
 flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   classDef institution fill:#3b82f6,color:#fff,stroke:#2563eb
   classDef controle fill:#0891b2,color:#fff,stroke:#0e7490
   classDef question fill:#fbbf24,color:#000,stroke:#f59e0b

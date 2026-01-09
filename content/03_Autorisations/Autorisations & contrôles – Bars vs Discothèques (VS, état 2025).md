@@ -90,7 +90,8 @@ tags:
 ## 5) Procédure "autorisation ↔ sécurité" 
 
 ```mermaid
-flowchart TD
+flowchart TB
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
   A[Projet / Exploitation d'un établissement] --> B{Bar ou Discothèque dancing ?}
   B -->|Bar| C[Demande d'autorisation d'exploiter]
   B -->|Discothèque| C
