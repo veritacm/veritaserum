@@ -46,7 +46,9 @@ La page « Commission du feu » du site CSI indique que **« le CSI Crans-Montan
 
 > [!question] 📂 Source recherchée – Statut intercommunal
 > **Élément manquant** : Statut juridique exact de la commission Feu & EMCR (commission communale Crans-Montana seule ? commission intercommunale Crans-Montana + Icogne + Lens ? convention intercommunale ?)
+>
 > **Type de preuve attendue** : Arrêté de création, convention intercommunale, règlement communal
+>
 > **Piste suggérée** : Archives communales Crans-Montana, registre des conventions intercommunales VS
 
 ## Ce que dit le site du CSI Crans-Montana

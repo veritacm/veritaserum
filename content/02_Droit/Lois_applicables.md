@@ -101,7 +101,9 @@ flowchart TB
 
 > [!question] 📂 Source recherchée – Distinction bar/discothèque
 > **Élément manquant** : Critères légaux précis distinguant bar, bar-dancing, discothèque dans l'OHR ou directives d'application
+>
 > **Type de preuve attendue** : Article OHR ou circulaire cantonale définissant catégories et exigences différenciées
+>
 > **Piste suggérée** : OHR art. 2-5 (définitions), directives service cantonal hébergement-restauration
 
 ## Articulation avec droit fédéral

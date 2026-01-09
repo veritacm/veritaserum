@@ -17,6 +17,7 @@ Cette note recense uniquement des faits datés et vérifiables. En l'absence de 
 > Les dates ci-dessous sont des repères à confirmer par des sources officielles. Voir les sections détaillées pour l'état de documentation de chaque élément.
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
 timeline
   title Repères chronologiques — Veritaserum
 
@@ -62,17 +63,23 @@ Les éléments factuels ci-dessous reposent sur des sources publiques vérifiabl
 
 > [!question] 📂 Source recherchée – Capacité autorisée
 > **Élément manquant** : Capacité d'accueil autorisée (mention dans autorisation d'exploiter ou décision administrative)
+>
 > **Type de preuve attendue** : Autorisation d'exploiter, décision de la commission du feu, attestation de conformité
+>
 > **Piste suggérée** : Archives communales Crans-Montana, dossier administratif établissement
 
 > [!question] 📂 Source recherchée – Historique des autorisations
 > **Élément manquant** : Dates et conditions des autorisations d'exploiter (1976, 2015–2016, éventuels renouvellements)
+>
 > **Type de preuve attendue** : Autorisations d'exploiter successives, décisions administratives, changements de catégorie (discothèque → bar)
+>
 > **Piste suggérée** : Archives communales Crans-Montana, registre cantonal hébergement-restauration
 
 > [!question] 📂 Source recherchée – Inspections et contrôles
 > **Élément manquant** : Dates et résultats des inspections incendie et contrôles administratifs (2016–2025)
+>
 > **Type de preuve attendue** : Rapports d'inspection de la commission du feu, PV de contrôle, injonctions éventuelles
+>
 > **Piste suggérée** : Archives commission du feu Crans-Montana, inspection cantonale du feu VS
 
 ### Nuit de l'événement (31 décembre 2025 → 1er janvier 2026)

@@ -187,7 +187,8 @@ flowchart TB
 3. **Réception** → attestation de conformité après travaux
 4. **Autorisation d’exploiter** → mise à jour des conditions (capacité, catégorie, restrictions)
 
-```mermaid 
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2C3E50', 'primaryTextColor':'#fff', 'primaryBorderColor':'#7F8C8D', 'lineColor':'#3498DB', 'secondaryColor':'#7F8C8D', 'tertiaryColor':'#f4f4f4'}}}%%
 sequenceDiagram
   participant Exploitant
   participant Commune as Commune (autorisation)

@@ -1,70 +1,84 @@
----
-title: "Veritaserum — Plateforme de clarification institutionnelle"
-description: "Plateforme publique de suivi factuel et documenté autour de l’incendie de Crans-Montana (31.12.2025–01.01.2026)."
-image: "/static/og-veritaserum.png"
----
-
 ![[chez_chico_cm.png]]
-*Date de la photo à préciser*
-# Veritaserum
-**Plateforme factuelle** — incendie de Crans-Montana (31.12.2025 → 01.01.2026)  
-Ici : uniquement des **faits datés & vérifiables**, avec **sources**.
 
-> [!quote] Pourquoi “Veritaserum” ?
-> Le *veritaserum* (nom inventé par J.K. Rowling dans sa saga Harry Potter) est un **sérum de vérité** : l’idée du projet est de **faire éclater la vérité par la documentation**, pas par l’opinion.
+
+**Documenter. Comprendre. Rendre accessible.**
 
 ---
 
-## Pourquoi cette plateforme existe
-- **Clarifier** qui fait quoi (commune / canton / organes / commissions / experts).
-- **Tracer** les bases légales, les procédures attendues, et les documents manquants.
-- **Rendre visible** ce qui est publiquement vérifiable, et signaler ce qui ne l’est pas (**À documenter**).
+## L'incendie du Constellation
 
-> [!warning] Transparence “sans combines cachées”
-> Objectif : réduire l’opacité **par la traçabilité** (documents, dates, liens), pas par des insinuations.
+Dans la nuit du 31 décembre 2025, un incendie s'est déclaré au bar *Le Constellation* à Crans-Montana. Le bilan est lourd : des dizaines de victimes, des familles brisées, une communauté en deuil.
+
+Au-delà du drame, des questions émergent : quelles autorisations encadraient cet établissement ? Quels contrôles ont été effectués ? Par qui ? Quand ? Ces questions méritent des réponses documentées.
 
 ---
 
-## État actuel : archivage et retraits de contenus
+## Ce que propose ce site
 
-Plusieurs contenus communaux **semblent ne plus être accessibles** depuis l’événement (à documenter systématiquement).  
+**Veritaserum** rassemble, structure et publie les informations accessibles au public concernant cet événement et son contexte institutionnel.
 
-**Exemple déjà documenté** : l’article [[Archive web – "Crans Montana parie sur la sécurité publique"|« Crans Montana parie sur la sécurité publique »]] est présenté comme retiré, avec capture + PDF d’extrait dans la note d’archive.  
+| Ce que nous faisons | Ce que nous ne faisons pas |
+|---------------------|---------------------------|
+| Documenter les faits établis | Accuser quiconque |
+| Citer systématiquement les sources | Spéculer sur les responsabilités |
+| Identifier les questions ouvertes | Interférer avec l'enquête judiciaire |
+| Rendre l'information accessible | Remplacer un conseil juridique |
 
-> [!question] À documenter (prioritaire)
-> 1) **Liste exhaustive** des pages/news retirées (URL + dates + statut 200/404 + capture).  
-> 2) **Preuve d’archivage** (Wayback/Webarchive) quand disponible.  
-> 3) **Chronologie des changements** (quand une page disparaît / est modifiée).
-
----
-
-## Méthode (règles du jeu)
-
-> [!info] Méthode Veritaserum
-> - **Pas d’hypothèses** (présomption d’innocence).
-> - **1 fait = 1 note** (datée, sourcée).
-> - Sans source → marquer **À documenter** + créer une question dans [[08_Questions/Questions_factuelles_à_clarifier]].
-> - On parle d’**organes / compétences / procédures**, pas d’attaques nominatives.
+> [!note] Présomption d'innocence
+> Aucune responsabilité n'est attribuée. L'enquête du Ministère public du Valais est en cours. Ce site documente le cadre légal et les faits publics, sans préjuger des conclusions judiciaires.
 
 ---
 
-## Navigation rapide
-- [[01_Faits/Chronologie|📍 Chronologie des faits]]
-- [[08_Questions/Questions_factuelles_à_clarifier|❓ Questions factuelles à clarifier]]
-- [[03_Autorisations/Autorisation_d_exploiter|🧾 Autorisation d’exploiter (cadre)]]
-- [[06_Contrôles/Procédures_de_contrôle|🧪 Procédures de contrôle (cadre)]]
-- [[04_Sécurité_Incendie/Normes_incendie_AEAI|🧯 Normes incendie (AEAI)]]
-- [[05_Autorités/Commune de Crans-Montana|🏛️ Commune : rôle institutionnel]]
-- [[05_Autorités/Commission du feu CM|🔥 Commission du feu (CSI) : ce qui est affirmé publiquement]]
-- [[07_Responsabilités/Responsabilité_de_la_commune|⚖️ Responsabilités : cadre (sans préjuger)]]
-- [[00_Hub/Hub|🧭 Hub (carte du vault)]]
+## Explorer
+
+### Les faits
+**[[Chronologie]]** — De l'ouverture du Constellation en 1976 à l'incendie du 31 décembre 2025. Sources : presse, communications officielles.
+
+### Le droit applicable
+**[[Lois_applicables]]** — LPIEN, LHR, normes AEAI : le cadre juridique suisse et valaisan en matière d'autorisations et de sécurité incendie.
+
+### Les institutions
+**[[Commune de Crans-Montana]]** — Structure administrative, dicastères, organigramme.  
+**[[Commission du feu CM]]** — Missions, base légale, articulation avec le CSI.
+
+### Les procédures
+**[[Autorisation_d_exploiter]]** — Comment un établissement obtient-il le droit d'ouvrir ?  
+**[[Procédures_de_contrôle]]** — Qui contrôle quoi, à quelle fréquence, avec quelles suites ?
+
+### Les responsabilités (cadre général)
+**[[Responsabilité_de_la_commune]]** — Trois registres indépendants : administratif, civil, pénal. Principes juridiques, sans application au cas.
+
+### Les questions ouvertes
+**[[Questions_factuelles_à_clarifier]]** — Ce qui reste à documenter : capacité autorisée, historique des contrôles, chaîne de décision.
 
 ---
 
-> [!tip] Format “preuve” minimal
-> - **Quoi** (1 phrase neutre)  
-> - **Quand** (date/heure si dispo)  
-> - **Où** (URL / PDF / archive)  
-> - **Comment vérifier** (capture / hash / référence)
+## Pourquoi ce projet ?
+
+Après l'incendie, certaines pages du site officiel de la commune ont été retirées. Des informations publiques sont devenues inaccessibles.
+
+Ce projet est né d'un constat : **l'accès à l'information publique est une condition de la transparence démocratique**. Documenter les faits, c'est permettre à chacun de comprendre — et, le moment venu, de demander des comptes.
 
 ---
+
+## Contribuer
+
+Vous disposez d'un document, d'une source, d'une correction à apporter ?
+
+→ Utilisez le bouton **"Proposer un apport"** en bas de page.
+
+Toute contribution est vérifiée avant intégration. Les sources doivent être citables et vérifiables.
+
+---
+
+## Avertissement
+
+> [!warning] Limites de cette documentation
+> - Ce site est un **outil de recherche**, pas une source officielle.
+> - L'enquête pénale est couverte par le **secret de l'instruction**.
+> - Certaines informations nécessitent des documents administratifs **non accessibles publiquement**.
+> - Pour toute démarche juridique, consultez un **avocat qualifié**.
+
+---
+
+*Dernière mise à jour : 9 janvier 2026*
