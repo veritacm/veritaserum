@@ -1,3 +1,9 @@
+---
+title: "Veritaserum — Plateforme de clarification institutionnelle"
+description: "Plateforme publique de suivi factuel et documenté autour de l’incendie de Crans-Montana (31.12.2025–01.01.2026)."
+image: "/static/og-veritaserum.png"
+---
+
 ![[chez_chico_cm.png]]
 *Date de la photo à préciser*
 # Veritaserum
